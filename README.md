@@ -8,7 +8,7 @@
     <h1>Hi there , I'm Ankit Gupta.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" height="50px"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit07gupta&label=Profile%20views&color=0e75b6&style=flat" alt="ishikagarg-ig" /> </p>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=4EDC4E&center=true&vCenter=true&width=900&height=110&lines=Full+Stack+Developer;Techkne+Cyber)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=FFFF33&center=true&vCenter=true&width=900&height=110&lines=Full+Stack+Developer;Tech+Web+Architect)](https://git.io/typing-svg)
 </div>
 
 ## 🙋‍♂️ About Me
