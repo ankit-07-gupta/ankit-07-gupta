@@ -1,20 +1,15 @@
 <a href="https://icons8.com/icon/n9d0Hm43JCPK/link"></a>     
 <div align="center" width="100%">  
-  <table width="100%"> 
-    <tr><th><a href="https://skyline.github.com/ankit07gupta/2022"><img width="100%" src="./githubSkyline.gif"></a></th></tr>
+    <table width="100%"> 
+    <tr><th><a href="https://skyline.github.com/ankit07gupta/2022"><img width="100%" src="./anki07gupta.gif"></a></th></tr>
   </table>
 </div>
 <div align="center">
 <h1>Hi there 👨‍💻, I'm Ankit Gupta.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit07gupta&label=Profile%20views&color=0e75b6&style=flat" alt="ishikagarg-ig" /> </p>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=4EDC4E&center=true&vCenter=true&width=900&height=110&lines=Tech+Enthusiast;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=4EDC4E&center=true&vCenter=true&width=900&height=110&lines=Full+Stack+Developer;Techkne+Cyber)](https://git.io/typing-svg)
 </div>
-
-![profile-views](https://komarev.com/ghpvc/?username=ankit07gupta&color=blueviolet) 
-![age](https://img.shields.io/badge/age-19-blue) 
-![focus](https://img.shields.io/badge/focus-FullStack-brightgreen) 
-![living](https://img.shields.io/badge/living-Chandigarh-3c9) 
-
 
 ## 🙋‍♂️ About Me
 <center>
@@ -27,7 +22,6 @@
 </center>
 <br>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit07gupta&label=Profile%20views&color=0e75b6&style=flat" alt="ishikagarg-ig" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankit07gupta&no-frame=true&row=1&column=7" alt="ishikagarg-ig" /></a> </p>
 <br>
 <br>
