@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 - 💬 Ask me about **Nodejs,Java,Javascript or any tech stuff**
 - ⚡ My thought: ... **Eat🍴.. &nbsp;&nbsp;Sleep🛌.. &nbsp;&nbsp;Code👨‍💻.. &nbsp;&nbsp;Repeat🔁.**
-- ✨ Inspired From: ... **Bill Gates⚡ and Sundar Pichai**
+- ✨ Inspired From: ... **Elon Musk⚡ and Sundar Pichai**
 - 📫 How to reach me: ... **https://www.ankitgupta.tech**
 </center>
 <br>
